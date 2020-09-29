@@ -1,0 +1,18 @@
+1/ How to use SparkSession in Apache Spark 2.0
+https://databricks.com/blog/2016/08/15/how-to-use-sparksession-in-apache-spark-2-0.html
+Notebook: https://github.com/dmatrix/examples/blob/master/spark/databricks/apps/scala/2.x/src/main/scala/zips/SparkSessionZipsExample.scala
+http://cdn2.hubspot.net/hubfs/438089/notebooks/spark2.0/SparkSession.html
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8599738367597028/2201444230243598/3601578643761083/latest.html
+
+2/ What are SparkSession Config Options
+https://stackoverflow.com/questions/43024766/what-are-sparksession-config-options
+
+
+3/ pyspark.sql module
+https://spark.apache.org/docs/2.1.0/api/python/pyspark.sql.html?highlight=sparksession
+
+4/ SparkSession — The Entry Point to Spark SQL
+https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/spark-sql-SparkSession.html
+
+5/ Introduction to SparkSession
+https://dzone.com/articles/introduction-to-spark-session
